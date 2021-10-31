@@ -1,0 +1,29 @@
+.slide-title {
+    color:rgb(202, 241, 223);
+    font-size: 70px;
+    font-weight: bold
+}
+.slider-btn{
+    margin: 250px auto;
+}
+.carousel-img{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("https://i.ibb.co/GR8bRyV/slider-1.jpg");
+    height: 100vh;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.carousel-img2{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("https://i.ibb.co/NxHvwKH/slide2.jpg"); 
+    height: 100vh;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.carousel-img3{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("https://i.ibb.co/VNhkWMJ/slide3.jpg"); 
+    height: 100vh;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}

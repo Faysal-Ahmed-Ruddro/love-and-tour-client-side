@@ -1,0 +1,44 @@
+[
+  {
+    "key": 16546515,
+    "price": "$350",
+    "placeName": "Manali Hills,India",
+    "placeDescription": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint porro neque nisi cupiditate veritatis nostrum exercitationem et autem sit tempora?",
+    "photoUrl": "https://i.ibb.co/2Y4fYwJ/sopt3-manali.jpg"
+  },
+  {
+    "key": 52844123,
+    "price" : "$300",
+    "placeName": "Sajke Valey,Bangladesh",
+    "placeDescription": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint porro neque nisi cupiditate veritatis nostrum exercitationem et autem sit tempora?",
+    "photoUrl": "https://i.ibb.co/p4sLSyS/sopt4-sajek.jpg"
+  },
+  {
+    "key": 78984515,
+    "price" : "$300",
+    "placeName": "Coast national park,Turkey",
+    "placeDescription": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint porro neque nisi cupiditate veritatis nostrum exercitationem et autem sit tempora?",
+    "photoUrl": "https://i.ibb.co/mJ7jZVK/spot1.jpg"
+  },
+  {
+    "key": 365595,
+    "price" : "$300",
+    "placeName": "Cagsawa Ruins,Philippines",
+    "placeDescription": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint porro neque nisi cupiditate veritatis nostrum exercitationem et autem sit tempora?",
+    "photoUrl": "https://i.ibb.co/8xMxwvf/spot2-philipine.jpg"
+  },
+  {
+    "key": 4789484,
+    "price" : "$300",
+    "placeName": "The Great Wall,China",
+    "placeDescription": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint porro neque nisi cupiditate veritatis nostrum exercitationem et autem sit tempora?",
+    "photoUrl": "https://i.ibb.co/z7vfhSV/spot5-china.jpg"
+  },
+  {
+    "key": 4541161,
+    "price" : "$300",
+    "placeName": "Raja Ampat,Indonesia",
+    "placeDescription": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint porro neque nisi cupiditate veritatis nostrum exercitationem et autem sit tempora?",
+    "photoUrl": "https://i.ibb.co/2Y4fYwJ/sopt3-manali.jpg"
+  }
+]

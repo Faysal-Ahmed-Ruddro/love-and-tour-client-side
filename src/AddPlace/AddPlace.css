@@ -1,0 +1,9 @@
+.addPlace form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.addPlace form input,textarea{
+    width: 40%;
+}
