@@ -1,0 +1,25 @@
+.about-title-bg {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../images/images.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 40vh;
+}
+.about-card {
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.about-title {
+  margin: 0 auto;
+  position: relative;
+  top: 40%;
+  color: white;
+  font-size: 60px;
+}
+.about-paragraph {
+  text-align: left;
+  color: white;
+}
