@@ -7,13 +7,14 @@ const AddPlace = () => {
   const { register, handleSubmit , reset} = useForm();
   const onSubmit = (data) => {
     console.log(data);
-    axios.post("http://localhost:5000/places", data)
-    .then((res) => {
-      if(res.data.insertedId){
-        alert("Places Added SuccessFully")
-        reset();
-      }
-    });
+    axios
+      .post("https://dreadful-skull-15396.herokuapp.com/places", data)
+      .then((res) => {
+        if (res.data.insertedId) {
+          alert("Places Added SuccessFully");
+          reset();
+        }
+      });
   };
   return (
     <div className="addPlace">

@@ -4,13 +4,13 @@ import { Button, Card, } from 'react-bootstrap';
 const ManagePlaces = () => {
     const [allPlace,setAllPlace] = useState([])
     useEffect(()=>{
-        fetch("http://localhost:5000/places")
-        .then(res => res.json())
-        .then(data => setAllPlace(data))
+        fetch("https://dreadful-skull-15396.herokuapp.com/places")
+          .then((res) => res.json())
+          .then((data) => setAllPlace(data));
     },[])
 
     const handleDelete = id =>{
-        const url = `http://localhost:5000/places/${id}`;
+        const url = `https://dreadful-skull-15396.herokuapp.com/places/${id}`;
         if(window.confirm("Are you sure you want to delete?")){
             
             fetch(url, {

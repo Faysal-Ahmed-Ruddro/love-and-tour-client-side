@@ -11,9 +11,9 @@ const onSubmit = (data) => console.log(data);
 
 const [place,setPlace] = useState([])
 useEffect(()=>{
-  fetch(`http://localhost:5000/places${id}`)
-  .then(res => res.json())
-  .then(data => setPlace(data))
+  fetch(`https://dreadful-skull-15396.herokuapp.com/places${id}`)
+    .then((res) => res.json())
+    .then((data) => setPlace(data));
 },[])
 
     return (
